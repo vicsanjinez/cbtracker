@@ -15,11 +15,12 @@ Client:
 Installation:
 
 1)
+Copy all folder on your apache server
+
 Restore database (MySql) from folder backup-base-de-datos
 
 DataBase Name: yii2advanced2
 
-Copy all folder on your apache server
 
 Test it:
 
