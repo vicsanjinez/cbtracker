@@ -19,6 +19,12 @@ Restore database (MySql) from folder backup-base-de-datos
 
 DataBase Name: yii2advanced2
 
+Copy all folder on your apache server
+
+Test it:
+
+http://localhost/advanced/frontend/web/index.php
+
 2)
 Create a twitter account and create a twitter app
 
